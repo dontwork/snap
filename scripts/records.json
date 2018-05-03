@@ -1,0 +1,162 @@
+{
+  "html-webpack-plugin for \"index.html\"": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": 0,
+          "node_modules/webpack/buildin/global.js": 1,
+          "node_modules/lodash/lodash.js": 2,
+          "node_modules/html-webpack-plugin/lib/loader.js!node_modules/html-webpack-plugin/default_index.ejs": 3,
+          "node_modules/html-webpack-plugin/lib/loader.js!src/index.html": 3
+        },
+        "usedIds": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "extract-text-webpack-plugin node_modules/extract-text-webpack-plugin/dist node_modules/css-loader/index.js?sourceMap!node_modules/postcss-loader/lib/index.js??ref--5-3!src/demo.css": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/lib/css-base.js": 0,
+          "node_modules/css-loader/index.js?sourceMap!node_modules/postcss-loader/lib/index.js??ref--5-3!src/demo.css": 1
+        },
+        "usedIds": {
+          "0": 0,
+          "1": 1
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          1
+        ]
+      }
+    }
+  ],
+  "extract-text-webpack-plugin node_modules/extract-text-webpack-plugin/dist node_modules/css-loader/index.js?sourceMap!node_modules/postcss-loader/lib/index.js??ref--5-3!lib/date-range-picker.css": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/lib/css-base.js": 0,
+          "node_modules/css-loader/index.js?sourceMap!node_modules/postcss-loader/lib/index.js??ref--5-3!lib/date-range-picker.css": 1
+        },
+        "usedIds": {
+          "0": 0,
+          "1": 1
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          1
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "node_modules/mithril/mithril.js": 0,
+      "node_modules/webpack/buildin/global.js": 1,
+      "node_modules/mithril/stream.js": 2,
+      "node_modules/babel-loader/lib/index.js!src/index.js 4e04c97827dee7cf3d4eca8d2cadab50": 3,
+      "node_modules/extract-text-webpack-plugin/dist/loader.js??ref--5-0!node_modules/style-loader/index.js!node_modules/css-loader/index.js?sourceMap!node_modules/postcss-loader/lib/index.js??ref--5-3!lib/date-range-picker.css": 4,
+      "node_modules/mithril/stream/stream.js": 5,
+      "node_modules/extract-text-webpack-plugin/dist/loader.js??ref--5-0!node_modules/style-loader/index.js!node_modules/css-loader/index.js?sourceMap!node_modules/postcss-loader/lib/index.js??ref--5-3!src/demo.css": 6,
+      "node_modules/process/browser.js": 7,
+      "node_modules/setimmediate/setImmediate.js": 8,
+      "node_modules/timers-browserify/main.js": 9,
+      "node_modules/babel-loader/lib/index.js!node_modules/eslint-loader/index.js!src/index.js 16a925f08c01ff2bd7a7f299cadcda57": 3,
+      "node_modules/file-loader/dist/cjs.js??ref--6-0!src/hammock-logo.png": 10,
+      "node_modules/babel-loader/lib/index.js!node_modules/eslint-loader/index.js!src/prism.js": 3,
+      "node_modules/babel-loader/lib/index.js!node_modules/eslint-loader/index.js!src/index.js 152fed44f2528a79dcfc9e6037deffc1": 11,
+      "node_modules/extract-text-webpack-plugin/dist/loader.js??ref--5-0!node_modules/style-loader/index.js!node_modules/css-loader/index.js?sourceMap!node_modules/postcss-loader/lib/index.js??ref--5-3!src/prism.css": 12,
+      "node_modules/babel-loader/lib/index.js!node_modules/eslint-loader/index.js!src/index.js 2994a62ad59fe569646e9baa6b21b0dc": 11,
+      "node_modules/babel-loader/lib/index.js!node_modules/eslint-loader/index.js!src/index.js 422f48804777fe168d6d26ab50699361": 2,
+      "node_modules/extract-text-webpack-plugin/dist/loader.js??ref--5-0!node_modules/style-loader/index.js!node_modules/css-loader/index.js?sourceMap!node_modules/postcss-loader/lib/index.js??ref--5-3!src/style.css": 3
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12
+    }
+  },
+  "chunks": {
+    "byName": {
+      "manifest": 0,
+      "vendor": 1,
+      "main": 2
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2
+    ]
+  },
+  "extract-text-webpack-plugin node_modules/extract-text-webpack-plugin/dist node_modules/css-loader/index.js?sourceMap!node_modules/postcss-loader/lib/index.js??ref--5-3!src/prism.css": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/lib/css-base.js": 0,
+          "node_modules/css-loader/index.js?sourceMap!node_modules/postcss-loader/lib/index.js??ref--5-3!src/prism.css": 1
+        },
+        "usedIds": {
+          "0": 0,
+          "1": 1
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          1
+        ]
+      }
+    }
+  ],
+  "extract-text-webpack-plugin node_modules/extract-text-webpack-plugin/dist node_modules/css-loader/index.js?sourceMap!node_modules/postcss-loader/lib/index.js??ref--5-3!src/style.css": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/lib/css-base.js": 0,
+          "node_modules/css-loader/index.js?sourceMap!node_modules/postcss-loader/lib/index.js??ref--5-3!src/style.css": 1
+        },
+        "usedIds": {
+          "0": 0,
+          "1": 1
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ]
+}
